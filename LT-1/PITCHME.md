@@ -39,10 +39,10 @@
 **新元号** と１０回言ってみてください。
 
 ---
- * 新元号  <br> ↓ |
- * しんげんごう  <br> ↓ |
- * しんげんご  <br> ↓ |
- * 新言語  <br>  |
+ * 新元号  <br> <pre> ↓ </pre> |
+ * しんげんごう  <br> <pre> ↓ </pre> |
+ * しんげんご  <br> <pre> ↓ </pre> |
+ * 新言語  <br>  <pre> ↓ </pre>|
  
 ---
 @transition[zoom]
@@ -52,11 +52,13 @@
 ---
 @transition[slide]
 
-## 令和元年は新言語を学ぶ！
+ 令和元年は<br>
+ @size[2.5em](新言語) <br>
+ を学ぶ！
 
 ---
 
-@size[68em](python)
+@size[2.5em](python)
 
 ---
 
