@@ -39,10 +39,10 @@
 **新元号** と１０回言ってみてください。
 
 ---
- * 新元号  <br> <pre> ↓ </pre> |
- * しんげんごう  <br> <pre> ↓ </pre> |
- * しんげんご  <br> <pre> ↓ </pre> |
- * 新言語  <br>  <pre> ↓ </pre>|
+ * 新元号  |<br> <pre> ↓ </pre> |
+ * しんげんごう  |<br> <pre> ↓ </pre> |
+ * しんげんご  |<br> <pre> ↓ </pre> |
+ * 新言語  |<br>  <pre> ↓ </pre>|
  
 ---
 @transition[zoom]
