@@ -16,7 +16,7 @@
 ### ブロスタ
 <br>   
 @snap[east]
-<img src="./assets/brawlstars.png" />
+<img src="assets/brawlstars.png" />
 @snapend
   
 自己紹介　おわり!
