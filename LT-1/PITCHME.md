@@ -103,14 +103,14 @@ a
 ---
 @transition[convex]
 @size[em2.0](どうしよっかなー)　　
-<br>
+<br><br>
 * (深夜25:00) |
 
 ---
 @transition[slide]
 二回生のTった君：
 <br>
-&emsp&emsp&emsp「C言語にsleep関数あるけどな」
+「語にsleep関数あるけどな」
 
 ---
 @transition[convex]
@@ -131,14 +131,7 @@ pythonにあるんかな〜
 @transition[convex]
 ---?code=LT-1/assets/sleep.py
 @[1](sleep関数だけ使います)
-
----
-
-@transition[convex]
----?code=LT-1/assets/sleep.py
-@[3]
-@[4]
-@[5](時間を指定して処理を遅らせる)
+@[3-5](時間を指定して処理を遅らせる)
 
 
 ---
