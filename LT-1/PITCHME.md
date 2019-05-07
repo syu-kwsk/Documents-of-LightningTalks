@@ -136,7 +136,9 @@ pythonにあるんかな〜
 
 @transition[convex]
 ---?code=LT-1/assets/sleep.py
-@[3,5](時間を指定して処理を遅らせる)
+@[3]
+@[4]
+@[5](時間を指定して処理を遅らせる)
 
 
 ---
